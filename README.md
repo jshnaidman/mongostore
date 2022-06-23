@@ -5,7 +5,9 @@ mongostore
 
 ## Requirements
 
-Depends on the [mgo](https://github.com/kidstuff/mongostore) library.
+Depends on: 
+- [mongo-driver](https://pkg.go.dev/go.mongodb.org/mongo-driver/mongo)
+- [Gorilla's securecookie library](https://github.com/gorilla/securecookie)
 
 ## Installation
 
@@ -13,7 +15,7 @@ Depends on the [mgo](https://github.com/kidstuff/mongostore) library.
 
 ## Documentation
 
-Available on [godoc.org](http://www.godoc.org/github.com/laziercoder/mongostore).
+Available on [godoc.org](http://www.godoc.org/github.com/jshnaidman/mongostore).
 
 ### Example
 ```go
