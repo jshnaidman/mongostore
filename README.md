@@ -9,7 +9,7 @@ Depends on the [mgo](https://github.com/kidstuff/mongostore) library.
 
 ## Installation
 
-    go get https://github.com/laziercoder/mongostore
+    go get github.com/jshnaidman/mongostore
 
 ## Documentation
 
